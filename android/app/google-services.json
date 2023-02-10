@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "98271032881",
+    "project_id": "tuntun-283f4",
+    "storage_bucket": "tuntun-283f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98271032881:android:5afa8b82b19bb07deb4710",
+        "android_client_info": {
+          "package_name": "com.tuntun.tuntun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98271032881-72d8ctsnfm2dc5d47f86dahi4bj54hlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZIwtIOvUyY0V-8RIjXDN4XTDM5ufaNqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98271032881-72d8ctsnfm2dc5d47f86dahi4bj54hlt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98271032881-5c5hvddk04td52ps6nemmcg14j187601.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuntun.tuntun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
