@@ -1,17 +1,7 @@
 # TunTun
 
 
-A new Flutter project.
 
-## Getting Started
+This is the clone of TikTok made on MVC architecture having all features like dynamic scrolling , videos reactions like, like comments, share , and so much more. I have used Firebase for backend services and GetX package for Controller and state management.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
